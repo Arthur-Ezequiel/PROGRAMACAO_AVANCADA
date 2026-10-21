@@ -17,7 +17,7 @@ import java.util.List;
  *
  * @author Artur
  */
-public class ClienteDAO {
+public class ClienteDAO implements ClienteDAOInterdace {
 
     public List<ModelCliente> listarTodos() {
 

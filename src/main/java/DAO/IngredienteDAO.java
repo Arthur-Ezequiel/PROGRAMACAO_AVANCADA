@@ -17,7 +17,7 @@ import java.util.List;
  *
  * @author Artur
  */
-public class IngredienteDAO {
+public class IngredienteDAO implements IngredienteDAOInterface {
 
     public boolean inserir(ModelIngrediente ingrediente) {
 

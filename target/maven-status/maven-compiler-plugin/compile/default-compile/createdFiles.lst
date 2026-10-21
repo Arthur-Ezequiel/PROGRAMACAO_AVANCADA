@@ -5,6 +5,7 @@ DAO\ProdutoDAO.class
 View\ViewProduto.class
 Model\ModelProduto.class
 Model\ModelCliente.class
+DAO\IngredienteDAOInterface.class
 DAO\ReservaDAO.class
 Model\ModelItemPedido.class
 View\ViewMenu.class
@@ -18,6 +19,7 @@ View\ViewIngrediente.class
 Controller\ControllerCliente.class
 Model\ModelMesa.class
 Controller\ControllerProduto.class
+DAO\ClienteDAOInterdace.class
 Model\ModelReserva.class
 View\ViewCliente$1.class
 DAO\PedidoDAO.class
@@ -26,3 +28,4 @@ View\ViewCliente.class
 View\ViewIngrediente$1.class
 Controller\ControllerIngrediente.class
 DAO\ClienteDAO.class
+DAO\ProdutoDAOInterface.class

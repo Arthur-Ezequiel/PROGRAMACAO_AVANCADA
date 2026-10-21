@@ -12,11 +12,12 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+
 /**
  *
  * @author Artur
  */
-public class ProdutoDAO {
+public class ProdutoDAO implements ProdutoDAOInterface {
 
     public boolean inserir(ModelProduto produto) {
 
