@@ -3,6 +3,7 @@ C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Controller\ControllerCliente.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Controller\ControllerIngrediente.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Controller\ControllerProduto.java
+C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Controller\ControllerUsuarios.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\DAO\ClienteDAO.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\DAO\ClienteDAOInterdace.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\DAO\ComandaDAO.java
@@ -14,6 +15,7 @@ C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\DAO\ProdutoDAO.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\DAO\ProdutoDAOInterface.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\DAO\ReservaDAO.java
+C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\DAO\UsuariosDAO.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Model\ModelCliente.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Model\ModelComanda.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Model\ModelIngrediente.java
@@ -22,7 +24,11 @@ C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Model\ModelPedido.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Model\ModelProduto.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Model\ModelReserva.java
+C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\Model\ModelUsuarios.java
+C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\util\CriarAdmin.java
+C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\util\SegurancaSenha.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\View\ViewCliente.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\View\ViewIngrediente.java
+C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\View\ViewLogin.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\View\ViewMenu.java
 C:\Users\Artur\Desktop\PROGRAMACAO_AVANCADA_Projeto_Semestre\Projeto_Restaurante\src\main\java\View\ViewProduto.java

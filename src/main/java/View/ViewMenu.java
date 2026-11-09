@@ -9,7 +9,7 @@ package View;
  * @author Artur
  */
 public class ViewMenu extends javax.swing.JFrame {
-    
+
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(ViewMenu.class.getName());
 
     /**
@@ -133,7 +133,7 @@ public class ViewMenu extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(() -> new ViewMenu().setVisible(true));
+        java.awt.EventQueue.invokeLater(() -> new ViewLogin().setVisible(true));
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

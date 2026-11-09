@@ -1,11 +1,14 @@
+View\ViewLogin.class
 Model\ModelIngrediente.class
 DAO\ComandaDAO.class
 DAO\IngredienteDAO.class
 DAO\ProdutoDAO.class
 View\ViewProduto.class
+Controller\ControllerUsuarios.class
 Model\ModelProduto.class
 Model\ModelCliente.class
 DAO\IngredienteDAOInterface.class
+util\SegurancaSenha.class
 DAO\ReservaDAO.class
 Model\ModelItemPedido.class
 View\ViewMenu.class
@@ -16,6 +19,8 @@ com\mycompany\projeto_restaurante\Projeto_Restaurante.class
 Model\ModelComanda.class
 Connection\Conexao.class
 View\ViewIngrediente.class
+util\CriarAdmin.class
+DAO\UsuariosDAO.class
 Controller\ControllerCliente.class
 Model\ModelMesa.class
 Controller\ControllerProduto.class
@@ -23,6 +28,7 @@ DAO\ClienteDAOInterdace.class
 Model\ModelReserva.class
 View\ViewCliente$1.class
 DAO\PedidoDAO.class
+Model\ModelUsuarios.class
 Model\ModelPedido.class
 View\ViewCliente.class
 View\ViewIngrediente$1.class
